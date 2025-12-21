@@ -1,0 +1,3 @@
+[submodule "Pi_Pico_W/Bluepad32"]
+	path = Pi_Pico_W/Bluepad32
+	url = https://github.com/ricardoquesada/bluepad32.git
